@@ -15,9 +15,9 @@
 
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
-[![Stats](https://github-readme-stats.vercel.app/api?username=Geekyowner&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/Rishikesh-Sharma09/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rishikesh-Sharma09&theme=tokyonight" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikesh-Sharma09&layout=compact&theme=tokyonight" align="center">
+[![Stats](https://github-readme-stats.vercel.app/api?username=Geekyowner&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/Geekyowner/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Geekyowner&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geekyowner&layout=compact&theme=tokyonight" align="center">
 
 
 
