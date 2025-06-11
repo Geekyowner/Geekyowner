@@ -1,13 +1,13 @@
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+self+Rishikesh)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+self+Geeky)
 </p>
 
-- 🔭 I’m currently working on [Tg Bot](https://telegram.dog/Rk_botz)
+- 🔭 I’m currently working on [Tg Bot](https://telegram.dog/MrBrutal_bots)
 
 - 🌱 I’m currently learning **python**
 
 - 🤝 I’m looking for help with **Dev**
 
-- 👨‍💻 All of my projects are available [here](https://telegram.dog/rk_botz)
+- 👨‍💻 All of my projects are available [here](https://telegram.dog/Mrbrutal_bots)
 
 - 💬 Ask me about **Bot issues**
 
